@@ -11,9 +11,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
