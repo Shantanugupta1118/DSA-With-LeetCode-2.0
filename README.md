@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
