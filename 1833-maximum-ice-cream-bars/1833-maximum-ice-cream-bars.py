@@ -8,4 +8,6 @@ class Solution:
             if total+i <= coins:
                 total += i
                 count += 1
+            elif total+i > coins:
+                break
         return count
