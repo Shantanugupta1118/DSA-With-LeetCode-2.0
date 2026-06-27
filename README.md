@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
