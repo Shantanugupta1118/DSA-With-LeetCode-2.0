@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -113,8 +117,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
