@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
