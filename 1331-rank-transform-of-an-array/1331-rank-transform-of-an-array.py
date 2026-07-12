@@ -7,7 +7,5 @@ class Solution:
             if i not in idx:
                 idx[i] = count
                 count += 1
-        res = []
-        for i in range(len(arr)):
-            res.append(idx[arr[i]])
-        return res
+        
+        return [idx[arr[i]] for i in range(len(arr))]
