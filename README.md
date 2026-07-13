@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
