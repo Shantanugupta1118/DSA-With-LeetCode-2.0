@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
