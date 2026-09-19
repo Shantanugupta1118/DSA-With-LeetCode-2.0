@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1563-stone-game-v) |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
