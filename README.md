@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1288-remove-covered-intervals) |
@@ -407,4 +409,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
