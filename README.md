@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0877-stone-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1358-number-of-substrings-containing-all-three-characters) |
