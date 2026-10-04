@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
