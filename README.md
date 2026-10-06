@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1563-stone-game-v) |
+| [1572-matrix-diagonal-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1833-maximum-ice-cream-bars) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1301-number-of-paths-with-max-score) |
+| [1572-matrix-diagonal-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/2812-find-the-safest-path-in-a-grid) |
