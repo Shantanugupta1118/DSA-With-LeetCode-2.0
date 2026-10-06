@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1572-matrix-diagonal-sum) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3498-reverse-degree-of-a-string) |
