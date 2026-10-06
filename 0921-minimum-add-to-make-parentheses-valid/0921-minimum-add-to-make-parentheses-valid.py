@@ -1,14 +1,14 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        openStacks = []
-        closeStacks = []
+        openStacks = 0
+        closeStacks = 0
 
         for c in s:
             if c == '(':
-                openStacks.append('(')
-            elif c == ')' and len(openStacks) > 0:
-                openStacks.pop()
+                openStacks += 1
+            elif c == ')' and openStacks > 0:
+                openStacks -= 1
             else:
-                closeStacks.append(')')
+                closeStacks += 1
         
-        return len(openStacks) + len(closeStacks)
+        return openStacks + closeStacks
