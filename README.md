@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0054-spiral-matrix) |
 | [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0287-find-the-duplicate-number) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/3069-distribute-elements-into-two-arrays-i) |
