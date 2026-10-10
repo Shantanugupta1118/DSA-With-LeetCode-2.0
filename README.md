@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0054-spiral-matrix) |
 | [0164-maximum-gap](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shantanugupta1118/DSA-With-LeetCode-2.0/tree/master/0704-binary-search) |
